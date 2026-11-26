@@ -1,0 +1,81 @@
+20
+1040
+Laptop Dell Latitude
+Computo
+15
+305
+Osciloscopio Digital
+Medicion
+6
+2210
+Multimetro Fluke 117
+Medicion
+20
+87
+Raspberry Pi 4
+Computo
+12
+5120
+Fuente de Poder 30V
+Electronica
+10
+760
+Generador de Funciones
+Electronica
+5
+99999
+Protoboard 830 puntos
+Electronica
+50
+412
+Tablet Android
+Computo
+8
+1500
+Analizador Logico
+Medicion
+4
+63
+Arduino Uno
+Electronica
+30
+2750
+Cautin 60W
+Electronica
+18
+940
+Monitor 24 pulgadas
+Computo
+14
+3301
+Pinza Amperimetrica
+Medicion
+9
+18
+Router Cisco
+Computo
+7
+4500
+Termometro Infrarrojo
+Medicion
+11
+275
+Kit de Sensores
+Electronica
+25
+8200
+Teclado USB
+Computo
+40
+650
+Fuente Dual Variable
+Electronica
+6
+1
+Calibrador Vernier
+Medicion
+22
+7777
+Mini PC Intel NUC
+Computo
+10
